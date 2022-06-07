@@ -1,6 +1,6 @@
 ### Hi, I'm Will 🤙
 
-![header](https://user-images.githubusercontent.com/89710130/172408466-8a0815c1-8050-40a8-b937-3941c061e342.gif)
+<img src="header.gif" width="249" height="249" />
 
 <!--
 **willotavio/willotavio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
