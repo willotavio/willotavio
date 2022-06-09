@@ -3,7 +3,7 @@
 <img src="godusopp.gif" width="249" height="249" />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=willotavio&theme=monokai&show_icons=true)](https://github.com/willotavio/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=monokai)](https://github.com/willotavio/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willotavio&layout=compact&theme=monokai)](https://github.com/willotavio/github-readme-stats)
 
 <img src="swan.gif" width="245" height="243" />
 
