@@ -2,7 +2,7 @@
 
 <img src="header.gif" width="249" height="249" />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=willotavio)](https://github.com/willotavio/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=willotavio&theme=monokai&show_icons=true)](https://github.com/willotavio/github-readme-stats)
 <!--
 **willotavio/willotavio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
