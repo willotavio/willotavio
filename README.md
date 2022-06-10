@@ -1,11 +1,29 @@
 ### Hi, I'm Will 🤙
 
-<img src="godusopp.gif" width="249" height="249" />
+<table>
+    <tr>
+      <td>
+        <img src="godusopp.gif" width="166" height="166" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=willotavio&theme=monokai&show_icons=true"/>
+      </td>
+    </td>
+</table>
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=willotavio&theme=monokai&show_icons=true)](https://github.com/willotavio/github-readme-stats)-->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=willotavio&theme=monokai&show_icons=true)](https://github.com/willotavio/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willotavio&layout=compact&theme=monokai)](https://github.com/willotavio/github-readme-stats)
+<table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willotavio&layout=compact&theme=monokai" />
+      </td>
+      <td>
+        <img src="swan.gif" width="163" height="162"/>
+      </td>
+    </td>
+</table>
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willotavio&layout=compact&theme=monokai)](https://github.com/willotavio/github-readme-stats)-->
 
-<img src="swan.gif" width="245" height="243" />
 
 <!--
 **willotavio/willotavio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
