@@ -1,6 +1,6 @@
 ### Hi, I'm Will 🤙
 
-<table>
+<table border="0" align="center">
     <tr>
       <td>
         <img src="godusopp.gif" width="166" height="166" />
@@ -8,11 +8,11 @@
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=willotavio&theme=monokai&show_icons=true"/>
       </td>
-    </td>
+    </tr>
 </table>
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=willotavio&theme=monokai&show_icons=true)](https://github.com/willotavio/github-readme-stats)-->
 
-<table>
+<table border="0" align="center">
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willotavio&layout=compact&theme=monokai" />
@@ -20,7 +20,7 @@
       <td>
         <img src="swan.gif" width="163" height="162"/>
       </td>
-    </td>
+    </tr>
 </table>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willotavio&layout=compact&theme=monokai)](https://github.com/willotavio/github-readme-stats)-->
 
