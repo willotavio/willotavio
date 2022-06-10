@@ -1,9 +1,9 @@
-### Hi, I'm Will 🤙
+﻿### Hi, I'm Will 🤙
 
 <table border="0" align="center">
     <tr>
       <td>
-        <img src="godusopp.gif" width="166" height="166" />
+        <img src="godusopp.gif" width="50%" height="50%" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=willotavio&theme=monokai&show_icons=true"/>
@@ -18,7 +18,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willotavio&layout=compact&theme=monokai" />
       </td>
       <td>
-        <img src="swan.gif" width="163" height="162"/>
+        <img src="swan.gif" width="90%" height="90%"/>
       </td>
     </tr>
 </table>
