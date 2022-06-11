@@ -1,10 +1,12 @@
-﻿### Hi, I'm Will 🤙
+﻿﻿### Hi, I'm Will 🤙
 
 <table border="0" align="center">
     <tr>
-      <td>
-        <img src="godusopp.gif" width="50%" height="50%" />
+      <td width=249px height=249px>
+        <img src="godusopp.gif"/>
       </td>
+</table>
+<table align="center">
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=willotavio&theme=monokai&show_icons=true"/>
       </td>
