@@ -1,4 +1,4 @@
-﻿﻿### Hi, I'm Will 🤙
+﻿Hi, I'm Will 🤙
 
 <table border="0" align="center">
     <tr>
@@ -20,7 +20,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willotavio&layout=compact&theme=monokai" />
       </td>
       <td>
-        <img src="swan.gif" width="90%" height="90%"/>
+        <img src="swan.gif"/>
       </td>
     </tr>
 </table>
