@@ -1,5 +1,4 @@
 <div style="text-align: center;">
-  <img src="imgs/perona-chan.gif" height="490" style="border-radius: 10px" align="left">
   <img src="imgs/sumi-chan.gif" height="490" style="border-radius: 10px" align="right">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=willotavio&repo=tccphp&theme=radical">
   <img src="imgs/swan.gif" width="140" style="border-radius: 5px">
