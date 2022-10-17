@@ -1,43 +1,12 @@
-﻿Hi, I'm Will 🤙
-
-<table border="0" align="center">
-    <tr>
-      <td width=249px height=249px>
-        <img src="godusopp.gif"/>
-      </td>
-</table>
-<table align="center">
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=willotavio&theme=monokai&show_icons=true"/>
-      </td>
-    </tr>
-</table>
-<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=willotavio&theme=monokai&show_icons=true)](https://github.com/willotavio/github-readme-stats)-->
-
-<table border="0" align="center">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willotavio&layout=compact&theme=monokai" />
-      </td>
-      <td>
-        <img src="swan.gif"/>
-      </td>
-    </tr>
-</table>
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willotavio&layout=compact&theme=monokai)](https://github.com/willotavio/github-readme-stats)-->
-
-
-<!--
-**willotavio/willotavio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="text-align: center;">
+  <img src="imgs/perona-chan.gif" height="490" style="border-radius: 10px" align="left">
+  <img src="imgs/sumi-chan.gif" height="490" style="border-radius: 10px" align="right">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=willotavio&repo=tccphp&theme=radical">
+  <img src="imgs/swan.gif" width="140" style="border-radius: 5px">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=willotavio&theme=radical&show_icons=true">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willotavio&layout=compact&theme=radical">
+  <img src="imgs/josuke.gif" width="155" style="border-radius: 5px">
+  <br>
+</div>
